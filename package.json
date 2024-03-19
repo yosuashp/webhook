@@ -1,0 +1,22 @@
+{
+  "name": "finpro",
+  "version": "1.0.0",
+  "description": "Webhook Finpro BRI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosuashp/webhook.git"
+  },
+  "keywords": [
+    "webook-grafana"
+  ],
+  "author": "sahat parulian, refido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosuashp/webhook/issues"
+  },
+  "homepage": "https://github.com/yosuashp/webhook#readme"
+}
